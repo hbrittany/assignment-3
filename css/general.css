@@ -1,0 +1,55 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color:#320318;
+	font-size:100%;
+	font-family:Georgia;
+	width: 47%;
+	margin: 2em 20em;
+}
+
+.box {
+	background-color:#941751;
+	border: 8px;
+	border-radius: 20px;
+	padding: 1rem;
+	margin: 7rem 3rem;
+	height: 17rem;
+	width: 37rem; 
+}
+
+.box blockquote {
+	color: #FFF;
+	position: inherit;
+	font-size: 20px;
+	margin: 0rem 1rem;
+	padding: 2rem;
+}
+
+.box cite {
+	font-family:Arial;
+	font-size: 20px;
+	color: #FFF;
+	opacity: .60;
+	float:right;
+	margin: 1rem;
+	padding-right: 2rem;
+}
+
+.quotation {
+	float:left;
+	font-family:Arial;
+	font-size:8em;
+	color:#b82d5d;
+}
+
+.quotations {
+	float:right;
+	font-family:Arial;
+	font-size:8em;
+	color:#b82d5d;
+	position:relative;
+	float:right;
+	line-height:0;
+}
